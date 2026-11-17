@@ -1,6 +1,6 @@
 # SentinelFlow — Fraud Intelligence & ML Observability
 
-A production-style machine-learning engineering project: train a fraud-risk classifier, serve online predictions through FastAPI, explain risk signals, persist scored events, simulate traffic, and expose operational metrics.
+From ML Model to Production-Style Risk Intelligence Platform. A production-style machine-learning engineering project: train a fraud-risk classifier, serve online predictions through FastAPI, explain risk signals, persist scored events, simulate traffic, and expose operational metrics.
 
 > **Important:** the bundled data generator is synthetic. Any metrics from it are demonstration metrics, not evidence of real-world fraud detection performance.
 
